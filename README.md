@@ -1,4 +1,6 @@
-## 🐤 Hello, World! 🐤
+# Hello, World! 🌎
+
+### Computer Science Student
 
 <!--
 **lluisalinhares/lluisalinhares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>I'm studying to understand how things really work, and know how to solve problems and code solutions, efficiently and with good design.</p>
-
- <img src="" alt="Minha Figura">
-
- ![gatinho codando](file:///home/luisa/Downloads/gato-dev.gif)
